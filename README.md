@@ -6,5 +6,5 @@ This project performs a time-series-based Exploratory Data Analysis (EDA) on his
 
 ---
 
-## 📁 Project Structure
+
 
